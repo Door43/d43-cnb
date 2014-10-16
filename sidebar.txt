@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cnb:home|Door43 (cnb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cnb|d43-cnb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cnb/archive/master.zip|d43-cnb.zip]]
+
+**Recent Changes**
+{{changes>ns = cnb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cnb|Ethnologue data]]
+
